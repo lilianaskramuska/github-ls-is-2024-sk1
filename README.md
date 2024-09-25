@@ -3,3 +3,4 @@
 ## toto je změna provedena na lokále
 
 Liliana Skramuska
+v ramci predmetu IS
