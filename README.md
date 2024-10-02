@@ -4,4 +4,4 @@
 
 Liliana Skramuska
 v ramci predmetu IS
-Test y lokalu 2024/10/02, 9:20
+Test z lokalu 2024/10/02, 9:20
