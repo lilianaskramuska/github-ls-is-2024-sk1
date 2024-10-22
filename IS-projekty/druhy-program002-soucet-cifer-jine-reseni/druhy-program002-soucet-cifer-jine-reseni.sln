@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "druhy-program002-soucet-cifer-jine-reseni", "druhy-program002-soucet-cifer-jine-reseni.csproj", "{627C1BA7-FF51-47D5-919D-B7C5599B988D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{627C1BA7-FF51-47D5-919D-B7C5599B988D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{627C1BA7-FF51-47D5-919D-B7C5599B988D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{627C1BA7-FF51-47D5-919D-B7C5599B988D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{627C1BA7-FF51-47D5-919D-B7C5599B988D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4A2667B-B608-4928-A207-ABA031F12465}
+	EndGlobalSection
+EndGlobal

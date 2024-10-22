@@ -1,0 +1,15 @@
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\treti-program003-trojuhelnik\obj\Debug\net8.0\treti-program003-trojuhelnik.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\treti-program003-trojuhelnik\obj\Debug\net8.0\treti-program003-trojuhelnik.AssemblyInfoInputs.cache
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\treti-program003-trojuhelnik\obj\Debug\net8.0\treti-program003-trojuhelnik.AssemblyInfo.cs
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\treti-program003-trojuhelnik\obj\Debug\net8.0\treti-program003-trojuhelnik.csproj.CoreCompileInputs.cache
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\treti-program003-trojuhelnik\obj\Debug\net8.0\treti-program003-trojuhelnik.sourcelink.json
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\treti-program003-trojuhelnik\bin\Debug\net8.0\treti-program003-trojuhelnik.exe
+C:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\treti-program003-trojuhelnik\bin\Debug\net8.0\treti-program003-trojuhelnik.deps.json
+C:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\treti-program003-trojuhelnik\bin\Debug\net8.0\treti-program003-trojuhelnik.runtimeconfig.json
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\treti-program003-trojuhelnik\bin\Debug\net8.0\treti-program003-trojuhelnik.dll
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\treti-program003-trojuhelnik\bin\Debug\net8.0\treti-program003-trojuhelnik.pdb
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\treti-program003-trojuhelnik\obj\Debug\net8.0\treti-program003-trojuhelnik.dll
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\treti-program003-trojuhelnik\obj\Debug\net8.0\refint\treti-program003-trojuhelnik.dll
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\treti-program003-trojuhelnik\obj\Debug\net8.0\treti-program003-trojuhelnik.pdb
+C:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\treti-program003-trojuhelnik\obj\Debug\net8.0\treti-program003-trojuhelnik.genruntimeconfig.cache
+C:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\treti-program003-trojuhelnik\obj\Debug\net8.0\ref\treti-program003-trojuhelnik.dll

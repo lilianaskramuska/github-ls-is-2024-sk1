@@ -1,0 +1,15 @@
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\druhy-program002-soucet-cifer-jine-reseni\bin\Debug\net8.0\druhy-program002-soucet-cifer-jine-reseni.exe
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\druhy-program002-soucet-cifer-jine-reseni\bin\Debug\net8.0\druhy-program002-soucet-cifer-jine-reseni.deps.json
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\druhy-program002-soucet-cifer-jine-reseni\bin\Debug\net8.0\druhy-program002-soucet-cifer-jine-reseni.runtimeconfig.json
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\druhy-program002-soucet-cifer-jine-reseni\bin\Debug\net8.0\druhy-program002-soucet-cifer-jine-reseni.dll
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\druhy-program002-soucet-cifer-jine-reseni\bin\Debug\net8.0\druhy-program002-soucet-cifer-jine-reseni.pdb
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\druhy-program002-soucet-cifer-jine-reseni\obj\Debug\net8.0\druhy-program002-soucet-cifer-jine-reseni.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\druhy-program002-soucet-cifer-jine-reseni\obj\Debug\net8.0\druhy-program002-soucet-cifer-jine-reseni.AssemblyInfoInputs.cache
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\druhy-program002-soucet-cifer-jine-reseni\obj\Debug\net8.0\druhy-program002-soucet-cifer-jine-reseni.AssemblyInfo.cs
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\druhy-program002-soucet-cifer-jine-reseni\obj\Debug\net8.0\druhy-program002-soucet-cifer-jine-reseni.csproj.CoreCompileInputs.cache
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\druhy-program002-soucet-cifer-jine-reseni\obj\Debug\net8.0\druhy-program002-soucet-cifer-jine-reseni.sourcelink.json
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\druhy-program002-soucet-cifer-jine-reseni\obj\Debug\net8.0\druhy-program002-soucet-cifer-jine-reseni.dll
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\druhy-program002-soucet-cifer-jine-reseni\obj\Debug\net8.0\refint\druhy-program002-soucet-cifer-jine-reseni.dll
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\druhy-program002-soucet-cifer-jine-reseni\obj\Debug\net8.0\druhy-program002-soucet-cifer-jine-reseni.pdb
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\druhy-program002-soucet-cifer-jine-reseni\obj\Debug\net8.0\druhy-program002-soucet-cifer-jine-reseni.genruntimeconfig.cache
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\druhy-program002-soucet-cifer-jine-reseni\obj\Debug\net8.0\ref\druhy-program002-soucet-cifer-jine-reseni.dll
