@@ -6,7 +6,7 @@ class Program {
         while (again == "a") {
             Console.Clear();
             Console.WriteLine("***********************");
-            Console.WriteLine("**** Soucet cifer ****");
+            Console.WriteLine("**** Součet cifer ****");
             Console.WriteLine("***********************");
             Console.WriteLine("*** Liliana Skramuska ***");
             Console.WriteLine("***********************");
