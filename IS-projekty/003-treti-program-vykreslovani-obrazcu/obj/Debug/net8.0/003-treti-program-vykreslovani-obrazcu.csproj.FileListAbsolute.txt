@@ -1,0 +1,5 @@
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\003-treti-program-vykreslovani-obrazcu\obj\Debug\net8.0\003-treti-program-vykreslovani-obrazcu.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\003-treti-program-vykreslovani-obrazcu\obj\Debug\net8.0\003-treti-program-vykreslovani-obrazcu.AssemblyInfoInputs.cache
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\003-treti-program-vykreslovani-obrazcu\obj\Debug\net8.0\003-treti-program-vykreslovani-obrazcu.AssemblyInfo.cs
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\003-treti-program-vykreslovani-obrazcu\obj\Debug\net8.0\003-treti-program-vykreslovani-obrazcu.csproj.CoreCompileInputs.cache
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\003-treti-program-vykreslovani-obrazcu\obj\Debug\net8.0\003-treti-program-vykreslovani-obrazcu.sourcelink.json
