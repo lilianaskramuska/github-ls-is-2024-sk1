@@ -7,7 +7,7 @@ class Program
         Console.WriteLine("*******************");
         Console.WriteLine("****Trojúhelnik****");
         Console.WriteLine("*******************");
-        Console.WriteLine("**Lili SKramuská**");
+        Console.WriteLine("**Lili Skramuská**");
 
         string again;
         do
