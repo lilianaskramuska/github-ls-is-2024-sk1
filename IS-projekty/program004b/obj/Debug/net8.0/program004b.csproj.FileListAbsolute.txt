@@ -1,0 +1,5 @@
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program004b\obj\Debug\net8.0\program004b.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program004b\obj\Debug\net8.0\program004b.AssemblyInfoInputs.cache
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program004b\obj\Debug\net8.0\program004b.AssemblyInfo.cs
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program004b\obj\Debug\net8.0\program004b.csproj.CoreCompileInputs.cache
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program004b\obj\Debug\net8.0\program004b.sourcelink.json
