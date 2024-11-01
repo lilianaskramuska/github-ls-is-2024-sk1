@@ -1,0 +1,15 @@
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program003-dalsi-obrazec2\bin\Debug\net8.0\program003-dalsi-obrazec2.exe
+C:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program003-dalsi-obrazec2\bin\Debug\net8.0\program003-dalsi-obrazec2.deps.json
+C:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program003-dalsi-obrazec2\bin\Debug\net8.0\program003-dalsi-obrazec2.runtimeconfig.json
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program003-dalsi-obrazec2\bin\Debug\net8.0\program003-dalsi-obrazec2.dll
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program003-dalsi-obrazec2\bin\Debug\net8.0\program003-dalsi-obrazec2.pdb
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program003-dalsi-obrazec2\obj\Debug\net8.0\program003-dalsi-obrazec2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program003-dalsi-obrazec2\obj\Debug\net8.0\program003-dalsi-obrazec2.AssemblyInfoInputs.cache
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program003-dalsi-obrazec2\obj\Debug\net8.0\program003-dalsi-obrazec2.AssemblyInfo.cs
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program003-dalsi-obrazec2\obj\Debug\net8.0\program003-dalsi-obrazec2.csproj.CoreCompileInputs.cache
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program003-dalsi-obrazec2\obj\Debug\net8.0\program003-dalsi-obrazec2.sourcelink.json
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program003-dalsi-obrazec2\obj\Debug\net8.0\program003-dalsi-obrazec2.dll
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program003-dalsi-obrazec2\obj\Debug\net8.0\refint\program003-dalsi-obrazec2.dll
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program003-dalsi-obrazec2\obj\Debug\net8.0\program003-dalsi-obrazec2.pdb
+C:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program003-dalsi-obrazec2\obj\Debug\net8.0\program003-dalsi-obrazec2.genruntimeconfig.cache
+C:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program003-dalsi-obrazec2\obj\Debug\net8.0\ref\program003-dalsi-obrazec2.dll
