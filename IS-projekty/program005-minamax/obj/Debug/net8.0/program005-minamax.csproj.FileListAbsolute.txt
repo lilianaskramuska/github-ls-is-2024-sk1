@@ -1,0 +1,15 @@
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program005-minamax\obj\Debug\net8.0\program005-minamax.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program005-minamax\obj\Debug\net8.0\program005-minamax.AssemblyInfoInputs.cache
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program005-minamax\obj\Debug\net8.0\program005-minamax.AssemblyInfo.cs
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program005-minamax\obj\Debug\net8.0\program005-minamax.csproj.CoreCompileInputs.cache
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program005-minamax\obj\Debug\net8.0\program005-minamax.sourcelink.json
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program005-minamax\bin\Debug\net8.0\program005-minamax.exe
+C:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program005-minamax\bin\Debug\net8.0\program005-minamax.deps.json
+C:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program005-minamax\bin\Debug\net8.0\program005-minamax.runtimeconfig.json
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program005-minamax\bin\Debug\net8.0\program005-minamax.dll
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program005-minamax\bin\Debug\net8.0\program005-minamax.pdb
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program005-minamax\obj\Debug\net8.0\program005-minamax.dll
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program005-minamax\obj\Debug\net8.0\refint\program005-minamax.dll
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program005-minamax\obj\Debug\net8.0\program005-minamax.pdb
+C:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program005-minamax\obj\Debug\net8.0\program005-minamax.genruntimeconfig.cache
+C:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program005-minamax\obj\Debug\net8.0\ref\program005-minamax.dll
