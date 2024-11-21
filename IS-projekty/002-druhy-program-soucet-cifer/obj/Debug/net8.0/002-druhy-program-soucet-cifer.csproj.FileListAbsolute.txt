@@ -1,0 +1,15 @@
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\002-druhy-program-soucet-cifer\obj\Debug\net8.0\002-druhy-program-soucet-cifer.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\002-druhy-program-soucet-cifer\obj\Debug\net8.0\002-druhy-program-soucet-cifer.AssemblyInfoInputs.cache
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\002-druhy-program-soucet-cifer\obj\Debug\net8.0\002-druhy-program-soucet-cifer.AssemblyInfo.cs
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\002-druhy-program-soucet-cifer\obj\Debug\net8.0\002-druhy-program-soucet-cifer.csproj.CoreCompileInputs.cache
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\002-druhy-program-soucet-cifer\obj\Debug\net8.0\002-druhy-program-soucet-cifer.sourcelink.json
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\002-druhy-program-soucet-cifer\bin\Debug\net8.0\002-druhy-program-soucet-cifer.exe
+C:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\002-druhy-program-soucet-cifer\bin\Debug\net8.0\002-druhy-program-soucet-cifer.deps.json
+C:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\002-druhy-program-soucet-cifer\bin\Debug\net8.0\002-druhy-program-soucet-cifer.runtimeconfig.json
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\002-druhy-program-soucet-cifer\bin\Debug\net8.0\002-druhy-program-soucet-cifer.dll
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\002-druhy-program-soucet-cifer\bin\Debug\net8.0\002-druhy-program-soucet-cifer.pdb
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\002-druhy-program-soucet-cifer\obj\Debug\net8.0\002-druhy-program-soucet-cifer.dll
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\002-druhy-program-soucet-cifer\obj\Debug\net8.0\refint\002-druhy-program-soucet-cifer.dll
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\002-druhy-program-soucet-cifer\obj\Debug\net8.0\002-druhy-program-soucet-cifer.pdb
+C:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\002-druhy-program-soucet-cifer\obj\Debug\net8.0\002-druhy-program-soucet-cifer.genruntimeconfig.cache
+C:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\002-druhy-program-soucet-cifer\obj\Debug\net8.0\ref\002-druhy-program-soucet-cifer.dll

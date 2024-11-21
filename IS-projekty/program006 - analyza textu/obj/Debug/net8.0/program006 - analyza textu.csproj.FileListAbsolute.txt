@@ -1,0 +1,5 @@
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program006 - analyza textu\obj\Debug\net8.0\program006 - analyza textu.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program006 - analyza textu\obj\Debug\net8.0\program006 - analyza textu.AssemblyInfoInputs.cache
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program006 - analyza textu\obj\Debug\net8.0\program006 - analyza textu.AssemblyInfo.cs
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program006 - analyza textu\obj\Debug\net8.0\program006 - analyza textu.csproj.CoreCompileInputs.cache
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program006 - analyza textu\obj\Debug\net8.0\program006 - analyza textu.sourcelink.json

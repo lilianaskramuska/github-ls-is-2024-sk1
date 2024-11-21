@@ -1,0 +1,5 @@
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program007- buble sort\obj\Debug\net8.0\program007- buble sort.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program007- buble sort\obj\Debug\net8.0\program007- buble sort.AssemblyInfoInputs.cache
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program007- buble sort\obj\Debug\net8.0\program007- buble sort.AssemblyInfo.cs
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program007- buble sort\obj\Debug\net8.0\program007- buble sort.csproj.CoreCompileInputs.cache
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program007- buble sort\obj\Debug\net8.0\program007- buble sort.sourcelink.json

@@ -1,0 +1,5 @@
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program011a-vypocet-pi\obj\Debug\net8.0\program011a-vypocet-pi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program011a-vypocet-pi\obj\Debug\net8.0\program011a-vypocet-pi.AssemblyInfoInputs.cache
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program011a-vypocet-pi\obj\Debug\net8.0\program011a-vypocet-pi.AssemblyInfo.cs
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program011a-vypocet-pi\obj\Debug\net8.0\program011a-vypocet-pi.csproj.CoreCompileInputs.cache
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program011a-vypocet-pi\obj\Debug\net8.0\program011a-vypocet-pi.sourcelink.json

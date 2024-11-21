@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Spustit C program",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/a.out",  // Cesta k vašemu kompilovanému programu
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": true,  // Spustí program v externím okně konzole
+            "MIMode": "gdb",          // Používáme debugger GDB
+            "setupCommands": [
+                {
+                    "description": "Nastavit rozšíření GDB pro C",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ],
+            "miDebuggerPath": "/usr/bin/gdb",  // Cesta k debuggeru GDB
+            "preLaunchTask": "build",          // Úloha pro kompilaci před spuštěním
+            "internalConsoleOptions": "openOnSessionStart"
+        }
+    ]
+}

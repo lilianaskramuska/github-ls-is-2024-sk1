@@ -1,0 +1,15 @@
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program006b-analyza-textu\obj\Debug\net8.0\program006b-analyza-textu.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program006b-analyza-textu\obj\Debug\net8.0\program006b-analyza-textu.AssemblyInfoInputs.cache
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program006b-analyza-textu\obj\Debug\net8.0\program006b-analyza-textu.AssemblyInfo.cs
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program006b-analyza-textu\obj\Debug\net8.0\program006b-analyza-textu.csproj.CoreCompileInputs.cache
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program006b-analyza-textu\obj\Debug\net8.0\program006b-analyza-textu.sourcelink.json
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program006b-analyza-textu\bin\Debug\net8.0\program006b-analyza-textu.exe
+C:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program006b-analyza-textu\bin\Debug\net8.0\program006b-analyza-textu.deps.json
+C:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program006b-analyza-textu\bin\Debug\net8.0\program006b-analyza-textu.runtimeconfig.json
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program006b-analyza-textu\bin\Debug\net8.0\program006b-analyza-textu.dll
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program006b-analyza-textu\bin\Debug\net8.0\program006b-analyza-textu.pdb
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program006b-analyza-textu\obj\Debug\net8.0\program006b-analyza-textu.dll
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program006b-analyza-textu\obj\Debug\net8.0\refint\program006b-analyza-textu.dll
+c:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program006b-analyza-textu\obj\Debug\net8.0\program006b-analyza-textu.pdb
+C:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program006b-analyza-textu\obj\Debug\net8.0\program006b-analyza-textu.genruntimeconfig.cache
+C:\Users\Uživatel\Desktop\škola\github-ls-is-2024-sk1\IS-projekty\program006b-analyza-textu\obj\Debug\net8.0\ref\program006b-analyza-textu.dll
